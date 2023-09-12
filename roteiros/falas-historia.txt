@@ -1,6 +1,4 @@
-Inicio do jogo:
-
-Homem Misterioso: Ele finalmente acordou.
+cem Misterioso: Ele finalmente acordou.
 Mike: Onde eu estou?
 Homem Misterioso: Acredito que podemos começar.
 Alan: ...
@@ -16,4 +14,6 @@ Homem Misterioso: Agora, Alan Dount: Aos 17 anos, 8 meses, 6 dias. Faleceu em de
 Alan: ... 
 Mike: ... Bom ... E agora? ...
 Homem Misterioso: Vou lhes propor duas alternativas à serem postos no Vale do Esquecimento.
-Homem Misterioso: A primeira alternativa 
+Homem Misterioso: A primeira alternativa: Renacer em uma nova vida e esquecer tudo que vivenciaram até aqui.
+Homem Misterioso: Contrapondo, proponho viverem num mundo paralelo ameaçado pelo Exército das Sombras. Seres cujo integridade é desconhecida, tudo que se sabe é que almejam tomar controle de todo o multiverso. Vocês são a unicaa esperança desse mundo.
+Homem Misterioso: Para incentivá-los vou coneceder alguns benefícios: Vocês terão suas memórias intactas, além de poder interpretar e se comunicar com os seres deste novo mundo. Concedo também o benefício de um conjunto de ferramentas para que possam sobreviver aos perigos que 
