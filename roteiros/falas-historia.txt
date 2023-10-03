@@ -62,4 +62,32 @@ Mike: Eu ... Não sabia que você seria "arrastado" para cá junto comigo.
 Alan: É melhor cada um seguir seu próprio caminho 
 Mike: ...
 Mike: Ok ...
-Mike: 
+Mike: Te vejo por aí ...
+----//----
+[jogador conhece o mapa com Mike até aparecer uma missão para ir ao Pub [ref= mission#1]
+----//----
+[Entardecer]
+[Mike entra no Pub]
+[Alan esta situado em uma mesa à direita próximo ao centro]
+[Enquanto caminha até uma mesa, Mike observa Alan - Alan o observa de canto]
+Mike:...
+[Mike vai até Alan]
+Mike: Alan ...
+Mike: Olha ... Vamos conversar? ...
+Alan: ... 
+Mike: Eu ... Olha, foi mal ... Não sabia que ... 
+Mike: ... Foi mal ... 
+Alan: ... "Foi mal" não resolve as coisas. Você é inconsequente, não pensa antes de agir.
+Mike: ... Eu não sabia que ... Você seria arrastado pra cá junto comigo. Pensei que seria só eu ... Ou sei lá.
+Alan: É melhor cada um seguir seu próprio caminho. Assim ninguém será afetado pelas escolhas um do outro. 
+Mike: ... Mas ... 
+Mike: Tá legal ... Só não queria ficar de mal contigo.
+Mike: Te vejo por aí 
+[Mike volta para sua mesa]
+[Passou-se cerca de 40 minutos]
+[Um cara se aproxima de Mike]
+[Mike aprenta-se um pouco chateado]
+?: Ei carinha. Vocẽ tá legal?
+Mike: Eu? Sim, sim, estou. Só sou meio novo por aqui.
+?: Posso me juntar a você?
+
