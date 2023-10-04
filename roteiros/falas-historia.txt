@@ -90,4 +90,16 @@ Mike: Te vejo por aí
 ?: Ei carinha. Vocẽ tá legal?
 Mike: Eu? Sim, sim, estou. Só sou meio novo por aqui.
 ?: Posso me juntar a você?
+Mike: Claro, senta aí.
+?: Como se chama?
+Mike: Mike, me chamo Mike. E você?
+Rit: Rit, Ritain, ma prefiro que me chamem de Rit
+Mike: Legal
+Rit: Você disse que é novo por aqui, de onde veio?
+Mike: Eu morava em uma vila muito, muito longe daqui. 
+Rit: Entendo. O que está achando daqui?
+Mike: Interessante. Andei explorando as coisas por aqui, ainda não conheço tudo mas aos poucos vou conhecendo.
+
+
+
 
