@@ -48,7 +48,7 @@ Mike: Te vejo por aí
 [Mike entra no Pub]
 [Alan esta sentado em uma mesa à direita]
 [Enquanto anda, Mike observa Alan - Alan o observa de canto]
-[Mike se sentaa em uma mesa afastada]
+[Mike se senta em uma mesa afastada]
 Mike:...
 [Mike vai até Alan]
 Mike: Alan
@@ -163,4 +163,11 @@ Alan: Não, sem chance.
 Alan: Ele tá certo. Não vou durar muito tempo aqui. Sozinho não.
 Alan: Esquece, vou ficar na minha e tentar alguma coisa.
 Alan: Vou pra aquela taverna, vai ver encontro alguém burro o suficiente pra me ajudar. Ou pelo menos, descubra onde ficam as coisas para quais preciso.
-
+[tela escurece e reaparece no Pub, mesma mesa da outra cena]
+?: Ei! Você saberia me dizer algum lugar para passar a noite por aqui? 
+Alan: Foi mal, também sou novo por aqui...
+?: Entendo, obrigado de qualquer forma.
+Alan: Estou meio ... Sonolento.
+Alan: Faz sentido, não como nada há um bom tempo.
+Alan: [Checa os bolsos] É, não vai rolar.
+Alan: Aparentemente as pessoas aqui são maníacas
