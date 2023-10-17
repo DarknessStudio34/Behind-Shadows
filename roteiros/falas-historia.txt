@@ -42,7 +42,7 @@ Mike: Te vejo por aí
 
 -----//-----
 [jogador conhece um pouco do mapa com Mike. - Após um tempo aparece uma mensagem dizendo que o jogador deveria ir até o Pub]
------//-----
+/-----//-----
 
 ----[Cena do Mike entrando no Pub]----
 [Mike entra no Pub]
@@ -108,8 +108,8 @@ Rit: Quantos anos tu tem?
 Mike: 14.
 Rit: Cacete ... Bom, tem onde ficar? 
 Mike: Pra falar a verdade não. Cheguei hoje aqui.
-Rit: Olha, se quiser, tem uma pequeno comunidade com algumas casas ao lado aqui do centro. É lá onde moro, tem algumas casas livres. Você pode ficar com uma delas. 
-Rit: A comunidade é como uma parceria, em troca da casa você ajuda os outros moradores quando precisarem. O mesmo vale pra eles. Quando precisar, os mesmos ajudarão você.
+Rit: Olha, se quiser, tem uma pequena associação de moradores com algumas casas ao lado aqui do centro. É lá onde moro, tem algumas casas livres. Você pode ficar com uma delas. 
+Rit: A associação é como uma parceria, em troca da casa você ajuda os outros moradores quando precisarem. O mesmo vale pra eles. Quando precisar, os mesmos ajudarão você.
 Rit:  As pessoas de lá são muito receptativas, acho que gostarão de ter você lá. 
 Rit: O que acha?
 Mike: Pera. Serio?
@@ -121,7 +121,7 @@ Mike: Claro! [sorrisinho com a mão na nuca]
 Mike: Sempre morou lá? 
 Rit: Não, não. Eu morava com meus pais em uma cidade ao lado.
 Rit: Mas ... A vila em que moravamos foi atacada e então meu tio me trouxe pra cá com meu irmão. Pouco tempo depois, descobri que meus pais foram mortos tentando defender a vila.
-Mike: Nossa ... Eu sinto muito.
+Mike: Nossa ... Eu ... sinto muito.
 Rit: Tá tudo bem, isso já faz muito, muito tempo.
 Rit: Melhor falarmos de algo mais "feliz".
 Mike: [sorrisinho] É.
@@ -131,7 +131,36 @@ Mike: Entendo.
 Mike: Queria ... Me juntar também.
 Rit: Você só precisa ir até o Centro de Combate, te levo lá amanhã se quiser.
 Mike: Pode ser.
-Rit: Só não sei se te deixam entrar por ser muito novo
+Rit: Só não sei se te deixam entrar por ser muito novo, mas vamos de qualquer forma. Vai ver eles não ligam.
+Mike: É [sorrisinho]
+Rit: ... Toma, é um mapa ... Você vai precisar disso ... [diz com a mão na nuca]
+Mike: Ah, valeu! [sorrisinho]
+[jogo mostra o mapa]
+Rit: Nós estamos aqui [flecha apontando para o Pub no mapa]
+Rit: Aqui fica a associação [o mesmo para ele]
+Rit: Aqui fica o centro [flecha apontando para o Centro de Combate]
+Mike: Ok, acho que entendi ... 
+[Interface = mapaBtn]
+Rit: Tá ficando meio tarde ... Quer ir conhecer a associação?
+Mike: AH, sim. Bora lá.
 
-
+------{ Alan, dia 2 - "Ferrado e sem amigos" }------
+[Alan dormiu em uma caverna e não conheceu nem descobriu nada muito relevante]
+[cena: Alan saindo da caverna]
+Alan: Cacete, dormi muito mal. [diz com a mão na coluna]
+Alan: Ainda tenho que sobreviver a essa droga de novo mundo. Nem se quer posso deixar de existir com tranquilidade. Sempre tem um idiota estragando as coisas.
+Alan: Pelo visto vou ter que ficar aqui por um tempo.
+Alan: Melhor arrumar algo pra fazer: [Escolha do jogador]{
+  1: Devia ir atrás de algumas coisas que eu posso precisar, ou me informar sobre esse lugar.
+     |-> [tela escurece e reaparece na cidade, aqui o jogador pode conseguir alguns itens]
+  2: Melhor fazer algo quanto a esse lugar. Deixa-lo mais seguro e evitar de morrer de novo.
+     |-> [jogador pode explorar a área, modifica-la, construir coisas, limpa-la e etc ...]
+}
+[após um tempo - independente da escolha]
+Alan: Pelo visto o Pub é um dos lugares onde se consegue pessoas e informações. Acho que deveria dar uma olhada.
+Alan: Talvez eu devesse me juntar a aquele idiota.
+Alan: Não, sem chance.
+Alan: Ele tá certo. Não vou durar muito tempo aqui. Sozinho não.
+Alan: Esquece, vou ficar na minha e tentar alguma coisa.
+Alan: Vou pra aquela taverna, vai ver encontro alguém burro o suficiente pra me ajudar. Ou pelo menos, descubra onde ficam as coisas para quais preciso.
 
