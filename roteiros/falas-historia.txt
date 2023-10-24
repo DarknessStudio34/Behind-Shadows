@@ -136,7 +136,7 @@ Alan: Melhor arrumar algo pra fazer: [Escolha do jogador]{
      |-> [jogador pode explorar a área, modifica-la, construir coisas, limpa-la e etc ...]
 }
 [após um tempo - independente da escolha]
-Alan: Pelo visto o Pub é um dos lugares onde se consegue pessoas e informações. Acho que deveria dar uma olhada.
+Alan: Pelo visto o Pub é um dos lugares onde se consegue informações. Acho que deveria dar uma olhada.
 Alan: Talvez eu devesse me juntar a aquele idiota.
 Alan: Não, sem chance.
 Alan: Ele tá certo. Não vou durar muito tempo aqui. Sozinho não.
@@ -200,7 +200,26 @@ Rit: Não se sinta mal se não passar de primeira. Eu levei 8 tentativas, então
 Mike: Tá de boa.
 Rit: Aliás, eu tava "zoando" sobre a aposta. Relaxa.
 Mike: [Sorrisinho] Tá legal 
-[cena de iniciação 
+[cena de iniciação no centro]
+General: Olá, como vai?
+Mike: Olá
+General: Opa Rit, como vai?
+Rit: Bom?
+Rit: Esse é o Mike, ele queria entrar aqui pro centro.
+General: Entendo. Vamos lá então.
+General: Mike, me acompanhe por favor.
+Rit: Só vou até aqui. Vai levar um tempo até terminar tudo. 
+Rit: Vou ficar ali fora treinando.
+Mike: Ah, beleza. Te vejo depois então.
+[Escurece a tela, mensagem "papeis e mais papeis preenchidos ..."]
+General: Agora a etapa final.
+General: Se me derrotar, você entra.
+Mike: Tá legal.
+
+
+
+
+
 
 
 
