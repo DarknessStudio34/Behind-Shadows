@@ -215,7 +215,15 @@ Mike: Ah, beleza. Te vejo depois então.
 General: Agora a etapa final.
 General: Se me derrotar, você entra.
 Mike: Tá legal.
-
+[começa a luta, Mike e o General estão ambos com os mesmos equipamentos - espada e arremessaveis]
+[falas paralelas]
+[vida de Mike = 75%]
+General: É só isso que você tem?
+Mike: ...
+[vida de Mike = 50%]
+General: Pelo visto isso vai ser rápido
+Mike: [Resmunga] Velho do karai.
+[vida de Mike = 25%]
 
 
 
