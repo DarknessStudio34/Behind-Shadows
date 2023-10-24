@@ -42,27 +42,6 @@ Mike: Te vejo por aí
 
 -----//-----
 [jogador conhece um pouco do mapa com Mike. - Após um tempo aparece uma mensagem dizendo que o jogador deveria ir até o Pub]
-/-----//-----
-
-----[Cena do Mike entrando no Pub]----
-[Mike entra no Pub]
-[Alan esta sentado em uma mesa à direita]
-[Enquanto anda, Mike observa Alan - Alan o observa de canto]
-[Mike se senta em uma mesa afastada]
-Mike:...
-[Mike vai até Alan]
-Mike: Alan
-Mike: Olha ... Vamos conversar? ...
-Alan: ...
-Mike: Eu ... Olha, foi mal ... Eu não sabia ... Que ...
-Mike: Foi mal ...
-Alan: ... Você é inconsequente, não pensa antes de agir.
-Mike: Eu ... Não pensa antes de agir.
-Mike: Eu ... Não sabia que você seria "arrastado" para cá junto comigo.
-Alan: É melhor cada um seguir seu próprio caminho 
-Mike: ...
-Mike: Ok ...
-Mike: Te vejo por aí ...
 ----//----
 [jogador conhece o mapa com Mike até aparecer uma missão para ir ao Pub [ref= mission#1]
 ----//----
@@ -84,7 +63,7 @@ Mike: ... Mas ...
 Mike: Tá legal ... Só não queria ficar de mal contigo.
 Mike: Te vejo por aí 
 [Mike volta para sua mesa]
-[Passou-se cerca de 40 minutos]
+[Passou-se cerca de 40 minutos, Alan foi embora]
 [Um cara se aproxima de Mike]
 [Mike aprenta-se um pouco chateado]
 ?: Ei carinha. Vocẽ tá legal?
@@ -170,4 +149,53 @@ Alan: Foi mal, também sou novo por aqui...
 Alan: Estou meio ... Sonolento.
 Alan: Faz sentido, não como nada há um bom tempo.
 Alan: [Checa os bolsos] É, não vai rolar.
-Alan: Aparentemente as pessoas aqui são maníacas
+Alan: Aparentemente as pessoas aqui são maníacas por dinheiro.
+Alan: Fala serio ... Esperava .. Encontrar coisas pra comer por aí, mas ...
+Alan: Vou ter que dar um jeito de arrumar dinheiro.
+Alan: Roubar? Sem chance, as pessoas se matam por bem menos que isso. Não tô afim de morrer, de novo não.
+[vozes abafadas]
+Alan: Ah era tudo que faltava. 
+Alan: Pelo visto o "espertão" arrumou outros da laia dele.
+Alan: Seria uma alternativa ir falar com ele? Sem chance.
+------{fim da cena}------
+------{Mike dia 2 - Iniciação}------
+[Cena mostra Rit e Mike indo em direção ao Centro de Combate]
+[ref= locais/centroDeComabate]
+Rit: O Centro fica logo ali.
+Rit: Te trouxe mais cedo para que possa praticar um pouco antes, levei 8 tentativas para passar, então ... 
+Mike: Ah, beleza. Tá legal. - Podia estar dormindo mas ... Enfim 
+[cutscene dos dois chegando no campo de treinamento externo]
+Rit: Tá legal. Vou ser seu oponente.
+Mike: Tá me zoando, né?
+Rit: Ah, vai lá. Você consegue.
+[Rit pega um machado]
+Mike: ... Me ... Sinto em desvantagem ... 
+Rit: [Riso leve] Atrás de você. Pode usar aquelas coisas ali.
+[Mike pega uma espada e algumas facas de arremesso]
+Mike: É ... Pega leve, tá bom? ... 
+[ref= mecanicas/lutaComEspada; mecanicas/arremessaveis]
+[variaveis de fala]
+Rit: QUe tal uma aposta?
+Mike: Como assim?
+Rit: Se eu ganhar, o Pub hoje é por sua conta. Se você ganhar ...
+Mike: Mas eu ...
+Rit: Melhor me vencer então.
+Mike: Ok, ok.
+[Começa a luta]
+[jogador consegue retirar 75% (variavel de acordo com a dificuldade) da vida de Rit]
+Rit: Calma ae. Tá legal. Você ganhou essa... Dessa vez ...
+Rit: Não fica "se achando", tá legal?
+Mike: [Sorrisinho] Tá bom.
+[Vida de Mike = 25%]
+[cena dos dois se encarando, com cara de "mortos"]
+[Mike tenta acertar Rit com a espada, tropeça e cai]
+Rit: Desiste?
+Mike: Não ... 
+Mike: Não dá ... Tá legal, você venceu.
+Rit: Hoje é por sua conta.
+Mike: Tô ferrado [resmunga]
+[cena do portão se abrindo]
+
+
+
+
