@@ -224,6 +224,15 @@ Mike: ...
 General: Pelo visto isso vai ser rápido
 Mike: [Resmunga] Velho do karai.
 [vida de Mike = 25%]
+General: Você não tem chance
+Mike: [resmunga] Vou matar esse cara ...
+[vida de Mike = 0%]
+Mike: Porra, não dá.
+[vida General = 75%]
+Mike: Ainda falta muito ... 
+[vida General = 50%]
+Mike: Ele não ... Desiste?
+[vida General = 25%]
 
 
 
