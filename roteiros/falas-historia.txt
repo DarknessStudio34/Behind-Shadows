@@ -306,3 +306,36 @@ Alan: Já que vou ficar aqui seria bom explorar essa caverna. Evitar morrer de n
 Alan: Nunca tinha chego até aqui.
 Alan: Sinistro.
 Alan: De qualquer forma não cheguei ao final dela, então vou continuar explorando.
+[falas paralelas]
+[jpgador encontra um minério pela primeira vez]
+Alan: Me parece interessante, vou ver o que consigo com isso. Vai ver um ferreiro ou algo do tipo pode querer.
+[jogador encontra um pergaminho pela primeira vez]
+Alan: Parece umas escrituras, vou dar uma olhada depois.
+[ref= mec/pergaminhos, mec/listagemDePergaminhos, mec/pergaminhosContents]
+[Jogador chega no nível 3 da caverna]
+Alan: Aquilo é ... Uma pessoa? 
+Alan: Por que teria alguém aqui?
+Alan: Achei que estivesse abandonado.
+Alan: Não ... Seja lá o que for, não é uma pessoa.
+Alan: Vou tentar chegar mais perto, espero que não me veja. De qualquer forma, vim até aqui pra deixar o lugar mais seguro.
+[O que o Alan viu é uma sombra, a mesma começa a ataca-lo]
+Alan: Porra!
+[ref= mec/combateAlan]
+[Alan tenta atacar a sombra com a espada algumas vezes]
+Alan: É, não vai funcionar.
+Alan: Vou ter que bolar outro plano.
+Alan: Se ataques diretos não funcionam, talves aprisiona-lo possa resolver.
+[câmera mostra um buraco na caverna]
+Alan: Vou tentar jogar ele ali.
+Alan: Depois derrubar algumas coisas, pedras ou coisas do tipo.
+[Mapa 8 direções, jogador precisa atrair a sombra para o buraco]
+[Quando o jogador conseguir derrubar a sombra]
+Alan: Pronto.
+[Câmera mostra alguns pedregulhos]
+[Alan vai até eles]
+Alan: Preciso ser rápido
+[Jogador precisa derrubar a pedra com Alan, Alan coloca a espada de modo a fazer uma alavanca. Jogador precisa pressionar a tecla 'Q' várias vezes]
+[Ao todo são 8 pedras, jogador tem um tempo limite pra derrubar as pedras ou a sombra escapa e ele terá que derrubar de novo.]
+[Quando Alan derrubar]
+Alan: Boa! Funcionou. [mão na cabeça, suor, sorrisinho]
+Alan: visto ele se dissipou. Então é assim que se mata essas coisas.
