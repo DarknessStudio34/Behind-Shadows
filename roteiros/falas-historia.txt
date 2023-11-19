@@ -338,4 +338,4 @@ Alan: Preciso ser rápido
 [Ao todo são 8 pedras, jogador tem um tempo limite pra derrubar as pedras ou a sombra escapa e ele terá que derrubar de novo.]
 [Quando Alan derrubar]
 Alan: Boa! Funcionou. [mão na cabeça, suor, sorrisinho]
-Alan: visto ele se dissipou. Então é assim que se mata essas coisas.
+Alan: Pelo visto ele se dissipou. Então é assim que se mata essas coisas.
