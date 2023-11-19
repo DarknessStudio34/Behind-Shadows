@@ -418,7 +418,24 @@ Mike: Alan?
 Alan: Ah, e aí Mike?
 Mike: Vindo na ferraria também?
 Alan: É, evitar de morrer.
-
+Mike: É [sorrisinho]
+Rit: Mike bora lá?
+[Agora o jogador pode montar a espada]
+[Quando terminar]
+Rit: O que achou?
+Mike: Muito doido, bem legal. [sorrisinho]
+Rit: Bom que gostou.
+Rit: Quando tiver mais materiais, só me chamar e eu tento fazer alguma coisa pra ti.
+Rit: Essa foi o que deu.
+Mike: Belê
+Deni: Mais coisas pra pegar?
+[Escolha do jogador]
+ |-> 1: Acho que deu.
+ |-> 2: Pera aí. Acho que deveríamos ir atrás de mais coisas
+[Caso o jogador escolha 2]
+[Jogador está livre pra andar pela cidade, ir atrás de itens e entre outros]
+[Para dar inicio a missão o jogador precisa clicar em "bora lá" na cai a de falas]
+1/2: [Escurece a tela e reaparece na área inicial da missão]
 
 
 
