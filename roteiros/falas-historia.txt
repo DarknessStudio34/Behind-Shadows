@@ -228,15 +228,81 @@ General: Você não tem chance
 Mike: [resmunga] Vou matar esse cara ...
 [vida de Mike = 0%]
 Mike: Porra, não dá.
+[escurece a tela e o jogador pode tentar de novo]
 [vida General = 75%]
 Mike: Ainda falta muito ... 
 [vida General = 50%]
 Mike: Ele não ... Desiste?
 [vida General = 25%]
-
-
-
-
-
-
-
+Mike: Morre logo ...
+[vida General = 0%]
+General: Ok, você passou.
+[liberou mecânica Centro de Combate]
+[escurece a tela e reaparece com Rit e Mike na frente do Centro]
+Rit: Boa! De primeira ...
+Mike: É, pode crer [sorrisinho]
+Rit: E então, quer ir no Pub?
+Mike: Pode ser.
+Rit: Vai na frente, vou passar buscar o Deni.
+Mike: Quem?
+Mike: Ah é, seu irmão. Beleza.
+[fim da cena]
+[cena Pub]
+Mike: Cacete ... 
+Rit: O que foi?
+Mike: É o Alan.
+Rit: Quem?
+Mike: É o amigo que veio comigo quando me mudei pra cá, mas a gente meio que se desentendeu e agora ele não fala mais comigo.
+Deni: Puts, vai lá falar com ele. Vai que.
+Mike: Não rola, ele não me ouve. Tentei falar com ele mas ...
+Deni: Tenta de novo, vai ver ele te ouve agora.
+Mike: Tá legal.
+[Mike se aproxima de Alan]
+Mike: Alan ... Você tá legal?
+Alan: Pensei ter dito pra cada um seguir seu rumo.
+Mike: É mas ... Você não parece bem. 
+Alan: Eu me viro, não sou tão bom igual você com pessoas.
+Mike: ... 
+Mike: Se ... Tu quiser ... A gente pode se ajudar, tu não precisa nem falar comigo. É só que, não é legal te ver assim.
+Mike: Eu não ... Queria que as coisas fossem assim.
+Alan: Mike, falar com você não é problema. 
+Mike: Então ... Qual é?
+Alan: É só que ... Eu não queria estar aqui, entende?
+Mike: ... Foi mal ... 
+Alan: Tá tudo bem, você não tinha como saber que afetaria nós dois.
+Mike: É, mas ... 
+Alan: É bom conversar com alguém depois de tanto tempo, mas não sobre isso. 
+Mike: Ah ... Pode falar, qualquer coisa ... 
+Alan: Deixa, fica com seus amigos, eu me viro aqui. 
+Mike: Alan ... 
+Alan: Tá tudo bem. Relaxa.
+Mike: Tá bem. Posso ... Vir ver como tu tá de vez em quando? 
+Alan: Pode. [sorrisinho]
+Alan: Te vejo por aí.
+Mike: Tenta não morrer, quero lutar com você um dia. 
+Alan: Tá legal. [sorrinho]
+[Mike volta a mesa com Rit e Deni]
+Deni: E aí, como foi?
+Mike: Bem, melhor que das últimas vezes. Aparentemente ele tá mais "sociável" agora.
+Deni: Que bom. Aos poucos ele ...
+Mike: É ...
+Mike: Posso ... Fazer uma pergunta pra vocês?
+Rit: Fala.
+Mike: Vocês são irmãos de sangue? 
+Rit: Sim? ...
+Mike: Ah é que vocês são um pouco diferentes, então ... 
+Deni: É ...
+Mike: Ou, como consigo ... Dinheiro?
+Rit: Lá no Centro? Tem um quadro de missões lá, tu cumpre elas e eles te pagam. 
+Mike: Entendi.
+[escurece a tela com a mensagem: "Mike continuou fazendo perguntas sobre como viver no novo mundo. Rit tomou alguns copos de cerveja e os três foram pra casa."]
+------/Alan Dia 3 - "Me virando"/------
+Alan: Até que o Mike não é tão idiota assim, ao menos ele é legal - um pouco ...
+Alan: E se ... Eu aceitasse a proposta dele? 
+Alan: Melhor não, eu me viro aqui. Tento pelo menos.
+Alan: Seria legal ... Ter alguém além de mim.
+Alan: Já que vou ficar aqui seria bom explorar essa caverna. Evitar morrer de novo.
+[Alan entra na caverna]
+Alan: Nunca tinha chego até aqui.
+Alan: Sinistro.
+Alan: De qualquer forma não cheguei ao final dela, então vou continuar explorando.
