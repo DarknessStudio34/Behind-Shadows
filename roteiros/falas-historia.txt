@@ -383,3 +383,42 @@ Garçonete: Ok!
 Mike: Tenta não ficar bebâdo, vou te jogar no lago se ficar.
 Alan: [risada leve]
 Alan: Relaxa, não vou ficar chapadão.
+Mike: Espero. [riso]
+Garçonete: Aqui!
+[Alan toma um gole]
+Mike: Cacete, metade de uma vez só.
+Alan: [Gargalhada] Só um pouquinho.
+[escurece a tela com a mensagem: "Continuaram a conversar por um tempo, a noite acobou bem e os dois forma pra casa."]
+------{Mike Dia 4 - "Sombras e escuridão"}------
+[Mike está sentado num morro vendo a água de um rio passar]
+Mike: O Alan tava diferente ontem, ele é legal as vezes.
+Mike: Vai ver por ficar muito tempo sozinho, quis conversar um pouco.
+Mike: Espero que ele não volte a ser o rabugento de antes.
+Rit: Mike!
+Mike: Sim?
+Rit: O que tá fazendo aí?
+Mike: Olhando o movimento.
+Mike: Como foi a missão ontem?
+Rit: Deu tudo certo, alarme falso.
+Mike: Que bom então.
+Rit: Terá uma missão em grupo, recomendei você e o Deni.
+Rit: 12h de hoje. Topa ir?
+Mike: Ah ... 
+Mike: Tá bem, eu vou.
+Rit: Melhor se equiparmos antes de ir, vamos passar no centro dar uma olhada.
+Mike: Beleza.
+[Escurece a tela e reaparece no centro]
+Rit: Mike, tu precisa de algo pra se defender. Não vai dar muito certo tu sair na mão com alguém.
+Mike: É [riso]
+Rit: O centro tem algumas coisas mas não é nada muito relevante.
+Rit: Vamos na ferraria, vou tentar fazer alguma coisa pra você.
+[Cena mostrando os três entrando na ferraria]
+Rit: Faz tempo que não trabalho com isso, mas posso tentar alguma coisa.
+Mike: Alan? 
+Alan: Ah, e aí Mike?
+Mike: Vindo na ferraria também?
+Alan: É, evitar de morrer.
+
+
+
+
