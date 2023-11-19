@@ -339,3 +339,47 @@ Alan: Preciso ser rápido
 [Quando Alan derrubar]
 Alan: Boa! Funcionou. [mão na cabeça, suor, sorrisinho]
 Alan: Pelo visto ele se dissipou. Então é assim que se mata essas coisas.
+Alan: Acho que deu por hoje. 
+Alan: Vou fechar as entradas desse lugar, não vai ser nada bom se um desses me atacar de novo.
+[Escurece a tela e reaparece na superfície]
+[Entardecer]
+[câmera mostra a barricada de madeira na entrada a fundo da caverna]
+Alan: Acho que é isso.
+Alan: Vou descansar um pouco e depois vou pro Pub.
+[fim da cena, reaparece no Pub]
+[Alan e Mike estão nos mesmos lugares de sempre]
+[Mike está sozinho]
+Alan: Mike está sozinho, deve ter rolado alguma coisa.
+Alan: Acho que vou lá falar com ele. 
+[Alan se levanta e vai até lá]
+Alan: [com os braçoes atrás da cabeça] Mike ... Você tá legal?
+Mike: Hm? [Olha pra trás e vê Alan - sorrisinho]
+Mike: Tô sim. Você ... Tá bem? 
+Mike: Nunca veio falar comigo, então ...
+Alan: É, eu tô ligado. É só que ... Você tava aqui sozinho - o que não é muito comum - então passei aqui pra saber se não rolou alguma coisa.
+Mike: Tendi. Bom, senta aí, só pra bater papo 
+Alan: Tá legal.
+Mike: ...
+Mike: Não sei sobre o que falar ... 
+Alan: [sorrinho de canto]
+Alan: Você curte beber algo?
+Mike: Nada alcoólico. As pessoas parecem meio viciadas aqui. 
+Alan: Eu curto cerveja mas não sou muito fã.
+Alan: O problema é que não tem nada melhor por aqui.
+Mike: Nunca cheguei a experimentar na verdade.
+Alan: Fez certo, no começo tu diz que não gosta mas quando vê tu já tá no quarto copo.
+Mike: [riso leve]
+Alan: Olha ... Foi mal por ter sido rude contigo antes.
+Mike: Tá de boa.
+[Garçonete passa na mesa]
+Garçonete: Precisam de alguma coisa?
+Alan: Me vê uma cerveja, por favor.
+Garçonete: Claro!
+Alan: Quer uma também? Eu pago uma pra ti.
+Mike: Acho que passo essa.
+Alan: Tá bom [sorrisinho]
+Alan: Só isso por hora.
+Garçonete: Ok!
+Mike: Tenta não ficar bebâdo, vou te jogar no lago se ficar.
+Alan: [risada leve]
+Alan: Relaxa, não vou ficar chapadão.
