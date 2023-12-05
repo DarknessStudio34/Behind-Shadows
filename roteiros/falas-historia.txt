@@ -437,5 +437,65 @@ Deni: Mais coisas pra pegar?
 [Para dar inicio a missão o jogador precisa clicar em "bora lá" na cai a de falas]
 1/2: [Escurece a tela e reaparece na área inicial da missão]
 
+General: Escutem: Essa área foi tomada por Avadest, há indícios de sombras habitando essa região, além de possíveis pessoas desabrigadas.
+General: Não ataquem se não forem atacados, essas pessoas também estão tentando sobreviver.
+?: Certo!
+[Tela de apresentação das mecânicas de luta em grupo]
+General: Dispersar!
+[esquadrão de 6 pessoas]
+[Rit ficou com o General, Mike ficou com Deni, os outros dois ficaram juntos]
 
+Deni: Tá bem, vamos lá.
+Deni: Mike tá vendo ali? 2 sombras.
+Deni: Não dá pra matar.
+Deni: Mas elas temem a luz, isso não se aplica se formos vistos - elas atacam mesmo assim.
+Mike: E como fazemos isso?
+[Deni pega um taco de madeira e atira fogo]
+Deni: Vamos chegar mais perto e jogar próximo a elas.
+Mike: Tá legal.
+Deni: Cuidado pra não verem a gente.
+Mike: O que acontece se pegarem a gente?
+Deni: Ela nos ataca, se formos pegos viramos sombras - iguais a elas.
+Mike: Ok ...
+[modo de jogo em 8 direções]
+[O objetivo do jogador é chegar perto da sombra da sombra com a tocha, quanto chegar perto o suficiente a sombra começa a se distanciar até se dissipar.]
+[Se forem vistos, a sombra desaparece e em seguida mostra uma cena do personagem ativo sendo pego e em seguida mostra a tela de "você perdeu".]
+[falas paralelas] 
+[sombra a 3 unidades de distância]
+Deni: Um pouco mais.
+[Sombra a 1 unidade de distância]
+Deni: Estamos quase lá.
+[Se o personagem ativo for visto pela primeira vez]
+[Deni/Mike: puxam o outro]
+Deni/Mike: Quase ...
+Mike/Deni: Valeu!
+[Quando o jogador dissipar todas as sombras]
+General: Acabamos por aqui.
+Deni: É isso aí Mike.
+Rit: Boa, continuam vivos [sorrisinho]
+Mike: [com a mão na cabeça] É [sorrisinho]
 
+------{Alan Dia 5 - "Vivendo ..."}------
+Alan: Mike não apareceu Pub ontem
+Alan: Não que me importe mas não vou conseguir derrotar o tal exército sozinho.
+Alan: Não teriam mandado nós dois se não fosse realmente necessário.
+Alan: Enfim, acho que ele não morreria tão fácil assim.
+Alan: De qualquer forma é melhor eu arranjar um jeito de ficar mais forte.
+Alan: Deveria anotar as coisas que descobrir.
+Alan: Enfim esses papéis que comprei vão ser úteis.
+Alan: Agora preciso de novos equipammentos. Ainda sobrou um pouco de dinheiro desde a última vez. Espero ser o suficiente.
+[Escurece a tela e reaparece na ferraria]
+[Alan entrando, Mike está conversando com Rit]
+Alan: Mike?
+Mike: Alan? Nos encontramos de novo [sorrisinho, mão no pescoço]
+Alan: É [sorrisinho]
+Mike: Só dando uma passada? 
+Alan: É, preciso de mais coisas.
+Mike: É eu também.
+Mike: É isso Alan, te vejo por aí.
+Alan: Até.
+[interface para o jogador forjar seus equipamentos a esquerda, a direita animação de Rit forjando]
+[Alan teria 50 de dinheiro + o que o jogador conseguir previamente com Alan]
+Alan: É acho que serve.
+Rit: Cuidado com isso aí [sorrisinho]
+Alan: Pode deixar [sorrisinho]
