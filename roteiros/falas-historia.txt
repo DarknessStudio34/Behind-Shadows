@@ -566,3 +566,5 @@ Rit: Deni...
 Deni: Vamos deixar eles aí?
 Rit: Não vou arriscar sua vida nisso.
 [Rit e Deni fogem]
+Alan: Tá legal Mike. Vamos nessa.
+[jogador deverá derrotar o boss. Modo 2 direções, grupo: Alan, Mike; jogador poderá intercalar entre os dois]
