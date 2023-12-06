@@ -496,6 +496,13 @@ Mike: É isso Alan, te vejo por aí.
 Alan: Até.
 [interface para o jogador forjar seus equipamentos a esquerda, a direita animação de Rit forjando]
 [Alan teria 50 de dinheiro + o que o jogador conseguir previamente com Alan]
-Alan: É acho que serve.
+Alan: É, acho que serve.
 Rit: Cuidado com isso aí [sorrisinho]
-Alan: Pode deixar [sorrisinho]
+Alan: Pode deixar. [sorrisinho]
+[cena se volta para Alan no centro da cidade]
+Alan: Tem mais coisas pra olhar por aqui.
+[Aqui o jogador pode escolher ficar e explorar a cidade ou voltar pra caverna.]
+[caso escolha explorar aparecerá um botão para que dar seguida à história.]
+Alan: Acho que vou voltar e explorar aquela caverna, vai ver consigo mais desses pergaminhos e alguns minérios.
+[Escurece a tela e reaparece dentro da caverna]
+
