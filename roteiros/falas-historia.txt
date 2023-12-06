@@ -624,4 +624,25 @@ Mike: Cacete, Alan!
 Mike: Eu vou arranjar um jeito de te trazer de volta ...
 [Escurece a tela]
 
-
+------{Alan Dia 7 - "Perdido nas sombras"}------
+[submundo]
+Alan: ... ? 
+Alan: Então é isso que acontece quando se é pego por aquilo.
+?: Até que enfim acordou
+Alan: ? 
+?: Você está em uma realidade alternativa, as pessoas que são corrompidas são trazidas para cá.
+Alan: Quem é você?
+?: Pode me chamar de Raika.
+Raika: Deve estar se perguntando se há como sair daqui.
+Alan: Exato.
+Raika: O único jeito de sair daqui é derrotando o General e contando com ajuda externa.
+Alan: Quem é esse tal "General"?
+Raika: É o ser responsável por mandar as pessoas pra esse lugar.
+Alan: O que seria a ajuda externa?
+Raika: Alguém do mundo dos vivos precisa fazer um ritual, isso garante que você consiga passar pelo portal.
+Alan: Que portal?
+Raika: Quando derrotar o General o portal para o mundo dos vivos estará aberto, no entanto quem está aqui não passar pelo portal.
+Alan: Onde fica o tal General?
+Raika: Ele não "fica" em um local acessível por sombras desse lugar.
+Raika: A única forma de derrota-lo é no torneio que acontece a cada 10 anos, para vencer você terá que matar um imortal.
+Raika: O torneio acontecerá daqui a três dias. Esse é o tempo que temos. 
