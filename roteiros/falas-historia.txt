@@ -543,3 +543,12 @@ Mike: Eu não vou deixar ele ali.
 Rit: Mike ... Vamos embora ... Antes que venham até a gente.
 Mike: Eu não ...
 [Uma das sombras avista os três]
+Rit: Vam'bora Mike!
+Mike: Sem chance.
+Rit: Tá legal. Se a gente morrer a culpa a sua.
+Mike: Alan!
+Alan: Mike?
+Alan: Mike cai fora daqui!
+Mike: Não vou deixar você aqui.
+[jogador enfrentará as 3 sombras, [mec/lutasEmGrupo]]
+[Após derrotar 2]
