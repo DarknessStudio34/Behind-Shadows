@@ -505,4 +505,27 @@ Alan: Tem mais coisas pra olhar por aqui.
 [caso escolha explorar aparecerá um botão para que dar seguida à história.]
 Alan: Acho que vou voltar e explorar aquela caverna, vai ver consigo mais desses pergaminhos e alguns minérios.
 [Escurece a tela e reaparece dentro da caverna]
+Alan: Acho que já tinha chego até aqui.
+Alan: Tenho um tempo até abrir o Pub.
+[Andar = 4]
+[Alan encontra uma sombra de nível 2]
+Alan: Cacete, essa aí é diferente.
+Alan: Parece ter uma espécie de armadura.
+[Modo 8 direções]
+Alan: Vou pelas sombras, com sorte ela não me vê.
+[1 unidade de distância]
+[Alan ataca a sombra com a espada, a parte descoberta é atravessada pela espada, porém a parte com armadura colide]
+[Alan puxa a espada e ataca de novo (mesmo efeito), a sombra começa tomar a espada. Alan pula em direção à sombra e a empurra de onde está, a sombra cai do andar onde Alan está.]
+[Com a espada apontada para a sombra, Alan pula diante da sombra e a perfura violentamente, em seguida a acerta com um pedregulho, dissipando-a]
+Alan: Cacete. não sei como fiz isso.
+Alan: Bora lá, ainda tem mais dessas coisas.
+[jogador continua em combate simples (8 direções), ao derrotar mais duas sombras escurece a tela com a mensagem: "As sombras continuaram a aparecer, dei um jeito de ir embora."]
 
+------{Alan Dia 6 - "Inesperado"}------
+[Mike está no mesmo morro de sempre observando o curso do rio]
+Deni: Mike!
+Deni: Rit quer dar uma volta numa colina aqui perto. Dizem ter um mercante que chegará em breve, Rit queria comprar algumas coisas. Quer ir com a gente?
+Mike: Ah, bora.
+Deni: Passamos aqui daqui uma hora.
+Mike: Beleza.
+[Jogador pode se preparar, comprar coisas e etc]
