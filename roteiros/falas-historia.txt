@@ -645,4 +645,4 @@ Raika: Quando derrotar o General o portal para o mundo dos vivos estará aberto,
 Alan: Onde fica o tal General?
 Raika: Ele não "fica" em um local acessível por sombras desse lugar.
 Raika: A única forma de derrota-lo é no torneio que acontece a cada 10 anos, para vencer você terá que matar um imortal.
-Raika: O torneio acontecerá daqui a três dias. Esse é o tempo que temos. 
+Raika: O torneio acontecerá em três dias. Esse é o tempo que temos. 
