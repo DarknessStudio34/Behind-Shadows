@@ -568,3 +568,19 @@ Rit: Não vou arriscar sua vida nisso.
 [Rit e Deni fogem]
 Alan: Tá legal Mike. Vamos nessa.
 [jogador deverá derrotar o boss. Modo 2 direções, grupo: Alan, Mike; jogador poderá intercalar entre os dois]
+[falas paralelas]
+[caso jogador estiver com Mike e ataque o boss diretamente com espada]
+Alan: Sem efeito Mike.
+[caso jogador estiver com Alan e ataque o boss diretamente com espada]
+Mike: Alan ... 
+Alan: Tô ganhando tempo.
+[Caso jogador realize um combo completo pela primeira vez]
+Alan: Tá legal Mike, ele tá parado.
+Mike: Como se mata uma coisa dessas?
+Alan: Se usarmos força o suficiente a armadura quebra.
+Mike: Vamos nessa!
+[cena mostrando Mike correndo na direção da sombra e a atacando violentamente]
+[sombra segura Mike e o joga no chão]
+Alan: Mike!
+[Alan ataca o tornozelo da sombra por meio de uma rasteira e puxa o Mike de volta]
+Mike: Não vai rolar.
