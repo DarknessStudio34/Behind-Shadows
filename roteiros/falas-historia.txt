@@ -529,3 +529,17 @@ Mike: Ah, bora.
 Deni: Passamos aqui daqui uma hora.
 Mike: Beleza.
 [Jogador pode se preparar, comprar coisas e etc]
+Rit: Mike tá pronto?
+Mike: Bora.
+[Escurece a tela e reaparece no morro onde Alan mora]
+[Os três estão subindo o morro]
+Mike: Onde fica o mercante?
+Rit: Um pouco mais à frente.
+[Os três estão subindo - Alan está lutando contra três sombras]
+Mike: Porra! É o Alan.
+[Rit põe a mãe a frente do Mike]
+Rit: Mike ... Já era, é isso que acontece quando se é pego por uma sombra.
+Mike: Eu não vou deixar ele ali.
+Rit: Mike ... Vamos embora ... Antes que venham até a gente.
+Mike: Eu não ...
+[Uma das sombras avista os três]
