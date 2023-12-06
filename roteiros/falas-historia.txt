@@ -521,7 +521,7 @@ Alan: Cacete. não sei como fiz isso.
 Alan: Bora lá, ainda tem mais dessas coisas.
 [jogador continua em combate simples (8 direções), ao derrotar mais duas sombras escurece a tela com a mensagem: "As sombras continuaram a aparecer, dei um jeito de ir embora."]
 
-------{Alan Dia 6 - "Inesperado"}------
+------{Mike Dia 6 - "Até logo ..."}------
 [Mike está no mesmo morro de sempre observando o curso do rio]
 Deni: Mike!
 Deni: Rit quer dar uma volta numa colina aqui perto. Dizem ter um mercante que chegará em breve, Rit queria comprar algumas coisas. Quer ir com a gente?
