@@ -641,8 +641,23 @@ Raika: É o ser responsável por mandar as pessoas pra esse lugar.
 Alan: O que seria a ajuda externa?
 Raika: Alguém do mundo dos vivos precisa fazer um ritual, isso garante que você consiga passar pelo portal.
 Alan: Que portal?
-Raika: Quando derrotar o General o portal para o mundo dos vivos estará aberto, no entanto quem está aqui não passar pelo portal.
+Raika: Quando derrotar o General o portal para o mundo dos vivos estará aberto, no entanto quem está aqui não pode passar pelo portal.
 Alan: Onde fica o tal General?
 Raika: Ele não "fica" em um local acessível por sombras desse lugar.
 Raika: A única forma de derrota-lo é no torneio que acontece a cada 10 anos, para vencer você terá que matar um imortal.
-Raika: O torneio acontecerá em três dias. Esse é o tempo que temos. 
+Raika: O torneio acontecerá daqui a três dias. Esse é o tempo que temos. 
+Alan: Tá legal.
+Alan: Como entro em contato com alguém no mundo dos vivos?
+Raika: Não faço ideia, é por isso que ainda estou presa aqui.
+Raika: Existe uma região isolada, conhecida por ser "A Ruína dos Traidores". 
+Raika: Nunca fui até essa parte, mas sei que existe uma pessoa lá que pode nos ajudar com isso.
+Alan: Tá legal. Vou até lá.
+Raika: Não vou até essa parte, é com você agora. Vou atrás de algumas coisas.
+Raika: Toma, vai precisar disso. 
+Alan: Valeu.
+[Raika entrega um mapa pro Alan]
+Raika: Te encontro aqui, mesmo lugar, amanhã.
+Alan: Tá legal.
+[mapa 8 direções]
+[jogador precisa andar com Alan até ]
+
