@@ -7,14 +7,19 @@ body {
 }
 h1 {
   font-size: 24px;
+  text-align: center;
+}
+h2 {
+  font-size: 22px;
+  text-align: center;
 }
 footer {
-  background-color: #A9A9A9;
+  background-color: #a9a9a9;
   padding: 20px;
   text-align: center;
 }
 header {
-  background-color: #A9A9A9;
+  background-color: #a9a9a9;
   padding: 20px;
   text-align: center;
 }
