@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'MedievalFonts';
+  src: url('caminho/para/minha-fonte.ttf') format('truetype');
+}
+body {
+  font-family: 'MedievalFonts', sans-serif;
+}
