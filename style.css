@@ -29,6 +29,8 @@ header {
 }
 main {
   margin-top: 25vw;
+  margind-left: 20px;
+  margin-right: 20px;
 }
 body {
   background-image: url("caminho/para/sua-imagem.jpg");
