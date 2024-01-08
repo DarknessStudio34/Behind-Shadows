@@ -33,7 +33,7 @@ main {
   margin-right: 20px;
 }
 body {
-  background-image: url("caminho/para/sua-imagem.jpg");
+  background-image: url("background.png");
   background-size: cover;
   background-position: center;
   margin: 0;
