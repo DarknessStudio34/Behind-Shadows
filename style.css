@@ -52,7 +52,10 @@ body {
   max-width: 50%;
   height: auto;
 }
-
+.NovoMundo img {
+  max-width: 85%;
+  height: auto;
+}
 
 
 
