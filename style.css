@@ -32,5 +32,10 @@ header {
 main {
   margin-top: 25vw;
 }
-
-
+body {
+  background-image: url("caminho/para/sua-imagem.jpg");
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  padding: 0;
+}
