@@ -31,6 +31,7 @@ main {
   margin-top: 25vw;
   margind-left: 20px;
   margin-right: 20px;
+  text-align: center;
 }
 body {
   background-image: url("background.png");
