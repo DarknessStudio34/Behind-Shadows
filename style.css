@@ -43,3 +43,17 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.Mike_Alan {
+  display: flex;
+  justify-content: space-between;
+}
+.Mike_Alan img {
+  max-width: 50%;
+  height: auto;
+}
+
+
+
+
+
