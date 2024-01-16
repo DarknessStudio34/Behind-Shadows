@@ -2,61 +2,67 @@
   font-family: 'MedievalFonts';
   src: url('MedievalSharp.ttf') format('truetype');
 }
+
 body {
   font-family: 'MedievalFonts', sans-serif;
-}
-h1 {
-  font-size: 24px;
-  text-align: center;
-}
-h2 {
-  font-size: 22px;
-  text-align: center;
-}
-footer {
-  padding: 20px;
-  text-align: center;
-}
-header {
-  padding: 20px;
-  text-align: center;
-  height: 35px
-}
-.DS34 {
-  font-size: 32px;
-  width: auto;
-  height: 5%;
-}
-main {
-  margin-top: 30vw;
-  margind-left: 20px;
-  margin-right: 20px;
-  text-align: center;
-  background-image: url("backMain.png");
-  background-position: center;
-}
-body {
   background-color: #121862;
   background-image: url("background.png");
   background-size: cover;
   background-position: center;
   margin: 0;
   padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 24px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 22px;
+  text-align: center;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  padding: 20px;
+  text-align: center;
+  height: 35px;
+}
+
+.DS34 {
+  font-size: 32px;
+  width: auto;
+  height: 5%;
+}
+
+main {
+  text-align: left;
+  background-image: url("backMain.png");
+  background-position: center;
+  max-width: 800px; /* Ajuste conforme necessário */
+  padding: 20px;    /* Ajuste conforme necessário */
 }
 
 .Mike_Alan {
   display: flex;
   justify-content: space-between;
 }
+
 .Mike_Alan img {
   max-width: 50%;
   height: auto;
 }
+
 .NovoMundo img {
   max-width: 85%;
   height: auto;
 }
-
-
-
-
