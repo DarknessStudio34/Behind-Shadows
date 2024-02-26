@@ -15,8 +15,8 @@ Alan: ...
 Mike: ... Bom ... E agora? ...
 Homem Misterioso: Vou lhes propor duas alternativas à serem postos no Vale do Esquecimento.
 Homem Misterioso: A primeira alternativa: Renacer em uma nova vida e esquecer tudo que vivenciaram até aqui.
-Homem Misterioso: Contrapondo, proponho viverem num mundo paralelo ameaçado pelo Exército das Sombras. Seres cujo integridade é desconhecida, tudo que se sabe é que almejam tomar controle de todo o multiverso. Vocês são a unicaa esperança desse mundo.
-Homem Misterioso: Para incentivá-los vou coneceder alguns benefícios: Vocês terão suas memórias intactas, além de poder interpretar e se comunicar com os seres deste novo mundo. Concedo também o benefício de um conjunto de ferramentas para que possam sobreviver aos perigos que os aguaradam pela frente.
+Homem Misterioso: Contrapondo, proponho viverem num mundo paralelo ameaçado pelo Exército das Sombras. Seres cujo integridade é desconhecida, tudo que se sabe é que almejam tomar controle de todo o multiverso. Vocês são a única esperança desse mundo.
+Homem Misterioso: Para incentivá-los vou coneceder alguns benefícios: Vocês terão suas memórias intactas, além de poderem interpretar e se comunicar com os seres deste novo mundo. Concedo também o benefício de um conjunto de ferramentas para que possam sobreviver aos perigos que os aguaradam pela frente.
 Homem Misterioso: Uma vez que consigam derrotar essas entidades, extinguindo-as, concederei qualquer desejo a vocês.
 Mike: ... Eu escolho ... O ... Novo mundo...
 Alan: ...
@@ -35,7 +35,7 @@ Mike: Bom ... Você tá aqui agora ... Nós estamos aqui ...
 Mike: Vamos ter que viver então ... 
 Mike: Seria melhor se estivesse-mos juntos
 Alan: ... Sem chance ... 
-Alan: Nem vem com essa, cada um pra um lado.
+Alan: Não vem com essa, cada um pra um lado.
 Alan: Não venha até mim. Curta sua "nova vida".
 Mike: ... Ok ...
 Mike: Te vejo por aí
@@ -89,7 +89,7 @@ Rit: Cacete ... Bom, tem onde ficar?
 Mike: Pra falar a verdade não. Cheguei hoje aqui.
 Rit: Olha, se quiser, tem uma pequena associação de moradores com algumas casas ao lado aqui do centro. É lá onde moro, tem algumas casas livres. Você pode ficar com uma delas. 
 Rit: A associação é como uma parceria, em troca da casa você ajuda os outros moradores quando precisarem. O mesmo vale pra eles. Quando precisar, os mesmos ajudarão você.
-Rit:  As pessoas de lá são muito receptativas, acho que gostarão de ter você lá. 
+Rit:  As pessoas de lá são muito receptivas, acho que gostarão de ter você lá. 
 Rit: O que acha?
 Mike: Pera. Serio?
 Rit: Sim, sim.
@@ -105,10 +105,10 @@ Rit: Tá tudo bem, isso já faz muito, muito tempo.
 Rit: Melhor falarmos de algo mais "feliz".
 Mike: [sorrisinho] É.
 Mike: Você trabalha com algo?
-Rit: Eu? Eu sou ferreiro mas desde o ataque das sombras eu estou servindo o exército. Eles precisavam de mais gente e então resolvi ir.
+Rit: Eu? Eu sou ferreiro mas desde o ataque das sombras estou servindo ao exército. Eles precisavam de mais gente e então resolvi ir.
 Mike: Entendo.
 Mike: Queria ... Me juntar também.
-Rit: Você só precisa ir até o Centro de Combate, te levo lá amanhã se quiser.
+Rit: Você só precisa ir até o Centro de Combate, amanhã te levo lá se quiser.
 Mike: Pode ser.
 Rit: Só não sei se te deixam entrar por ser muito novo, mas vamos de qualquer forma. Vai ver eles não ligam.
 Mike: É [sorrisinho]
@@ -120,8 +120,23 @@ Rit: Aqui fica a associação [o mesmo para ele]
 Rit: Aqui fica o centro [flecha apontando para o Centro de Combate]
 Mike: Ok, acho que entendi ... 
 [Interface = mapaBtn]
-Rit: Tá ficando meio tarde ... Quer ir conhecer a associação?
-Mike: AH, sim. Bora lá.
+Rit: Tá ficando meio tarde ... Quer ir conhecer o lugar?
+Mike: Ah ... sim. Bora lá.
+[escurece a tela e reaparece na casa do Mike]
+Rit: É aqui.
+Mike: ... ... É aqui? ...
+Rit: Gostou?
+Mike: Tudo isso pra mim? ...
+Rit: É
+Mike: É enorme.
+Mike: É incrivel
+Rit: Que bom que gostou.
+Mike: Eu ... tô meio que sem um lugar pra morar ...
+Rit: Dorme aí ... 
+Mike: Mas eu não preciso assinar algo, ou dizer que estou aqui? 
+Rit: Tecnicamente eu moro aí. Existe uma lista dos moradores, eu tinha assinado para essa aqui.
+Rit: 
+
 
 ------{ Alan, dia 2 - "Ferrado e sem amigos" }------
 [Alan dormiu em uma caverna e não conheceu nem descobriu nada muito relevante]
