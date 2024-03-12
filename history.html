@@ -6,11 +6,19 @@
     <title>Behind Shadows: História</title>
     <link rel="stylesheet" href="styles.css"> 
     <link rel="shortcut icon" href="icon.ico" type="image/x-icon">
-
 </head>
 <body>
     <pre id="texto-container">
          
     </pre>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $.get("roteiros/falas-historia.txt", function(data) {
+                $("#texto-container").text(data);
+            });
+        });
+    </script>
+
 </body>
 </html>
