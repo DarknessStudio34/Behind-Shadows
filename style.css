@@ -63,9 +63,10 @@ body {
 }
 .texto-container {
   font-family: 'MedievalFonts', sans-serif;
-  color: white;
+  color: #111;
   display: inline-block;
   border: 2px solid #000;  
   padding: 10px;          
   text-align: left;
+  max-width: 100%;
 }
