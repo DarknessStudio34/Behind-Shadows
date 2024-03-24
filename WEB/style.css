@@ -21,12 +21,12 @@ main {
   margin-top: 5vw;
   
   text-align: center;
-  background-image: url("backMain.png");
+  background-image: url("assets/backMain.png");
   background-position: center;
 }
 body {
   background-color: #121862;
-  background-image: url("background.png");
+  background-image: url("assets/background.png");
   background-size: cover;
   background-position: center;
   margin: 0;
