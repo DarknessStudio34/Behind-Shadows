@@ -1,4 +1,0 @@
-Menu de opções  
-Graficos; resuloção, FPS e qualidade 
-Sons; volume, efeito especial, efeito espacial e música 
-Jogo; salva progresso, exportar seus dados e alterar local de salvamento padrão 
