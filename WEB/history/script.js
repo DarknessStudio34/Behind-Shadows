@@ -4,8 +4,8 @@ $(document).ready(function(){
                 $("#texto-container").text(data);
             });
 });
-function getStep(){
-    step += 1;
+function getStep(var stepG){
+    step += stepG;
     switch(step){
         case 1:
             $(document).ready(function(){
