@@ -1,19 +1,12 @@
 @font-face {
     font-family: 'MedievalFonts';
     src: url('MedievalSharp.ttf') format('truetype');
-  }
-  footer {
+}
+footer {
     padding: 20px;
     text-align: center;
-  }
-  main {
-    margin-top: 5vw;
-    
-    text-align: center;
-    background-image: url("assets/backMain.png");
-    background-position: center;
-  }
-  body {
+}
+body {
     font-family: 'MedievalFonts', sans-serif;
     background-color: #121862;
     background-image: url("assets/background.png");
@@ -21,11 +14,13 @@
     background-position: center;
     margin: 0;
     padding: 0;
-  }
-  #texto-container {
-    font-family: 'MedievalFonts', sans-serif;
+}
+main {
     background-image: url("assets/backMain.png");
     background-position: center;
+}
+#texto-container {
+    font-family: 'MedievalFonts', sans-serif;
     color: #111;
     display: inline-block;
     border: 2px solid #000;  
@@ -35,5 +30,5 @@
     margin: 5px;
     box-sizing: border-box;
     word-wrap: break-word;
-  }
+}
   
