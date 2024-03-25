@@ -29,6 +29,6 @@ main {
     max-width: calc(100% - 10px);
     margin: 5px;
     box-sizing: border-box;
-    overflow-wrap: break-word;
+    overflow-wrap: normal;
 }
   
