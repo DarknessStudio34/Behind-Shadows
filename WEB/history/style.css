@@ -18,7 +18,12 @@ body {
 main {
     background-image: url("assets/backMain.png");
     background-position: center;
+    height: calc(100vh - [altura do header] - [altura do footer]);
+    margin-top: [altura do header];
+    margin-bottom: [altura do footer];
+    overflow-y: auto; /* Adicionado para permitir a rolagem vertical se necessário */
 }
+
 #texto-container {
     font-family: 'MedievalFonts', sans-serif;
     color: #111;
@@ -29,7 +34,7 @@ main {
     max-width: calc(100% - 10px);
     margin: 5px;
     box-sizing: border-box;
-    overflow: scroll; /* ou overflow: scroll; */
+    /*overflow: scroll; /* ou overflow: scroll; */
 }
 
   
