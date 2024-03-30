@@ -5,12 +5,22 @@ function nextStep(){
     step++;
     if(step > 8){step = 8;}
     console.log(step);
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+    document.getElementById('main').scrollTop = 0;
     getStep();
 }
 function prevStep(){
     step--;
     if(step < 0){step = 0;}
     console.log(step);
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+    document.getElementById('main').scrollTop = 0;
     getStep();
 }
 function getStep(){
