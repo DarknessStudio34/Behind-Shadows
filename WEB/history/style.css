@@ -14,13 +14,15 @@ body {
     background-position: center;
     margin: 0;
     padding: 0;
+    display: flex;
+    flex-direction: column;
 }
 main {
     background-image: url("assets/backMain.png");
     background-position: center;
-    height: calc(100vh - [altura do header] - [altura do footer]);
-    margin-top: [altura do header];
-    margin-bottom: [altura do footer];
+    height: 100vh;
+    margin-top: 10px;
+    margin-bottom: 20px;
     overflow-y: auto; /* Adicionado para permitir a rolagem vertical se necessário */
 }
 
@@ -34,7 +36,7 @@ main {
     max-width: calc(100% - 10px);
     margin: 5px;
     box-sizing: border-box;
-    /*overflow: scroll; /* ou overflow: scroll; */
+    overflow: scroll; /* ou overflow: scroll; */
 }
 
   
