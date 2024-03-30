@@ -20,7 +20,7 @@ body {
 main {
     background-image: url("assets/backMain.png");
     background-position: center;
-    height: 100vh;
+    height: 80vh;
     margin-top: 10px;
     margin-bottom: 20px;
     overflow-y: auto; /* Adicionado para permitir a rolagem vertical se necessário */
@@ -37,6 +37,16 @@ main {
     margin: 5px;
     box-sizing: border-box;
     overflow: scroll; /* ou overflow: scroll; */
+    display: flex;
+    justify-content: left; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
 }
-
-  
+#dayHistory {
+    text-align: center;
+}
+#nextStep {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    margin: 20px;
+}
