@@ -1,14 +1,28 @@
 const stepHistory = document.getElementById("dayHistory");
 var step = 0;
-$(document).ready(function(){
-    stepHistory.textContent = "------{ Novo Mundo }------";
-    $.get("roteiros/step0.txt", function(data) {
-        $("#texto-container").text(data);
-    });
-});
-function getStep(stepG){
-    step += stepG;
+
+function nextStep(){
+    step++;
+    if(step > 8){step = 8;}
+    console.log(step);
+    getStep();
+}
+function prevStep(){
+    step--;
+    if(step < 0){step = 0;}
+    console.log(step);
+    getStep();
+}
+function getStep(){
     switch(step){
+        case 0:
+            $(document).ready(function(){
+                stepHistory.textContent = "------{ Novo Mundo }------";
+                $.get("roteiros/step0.txt", function(data) {
+                    $("#texto-container").text(data);
+                });
+            });
+            break;
         case 1:
             stepHistory.textContent = "------{ Mike, dia 1 - Desencontro }------";
             $(document).ready(function(){
@@ -75,3 +89,4 @@ function getStep(stepG){
             break;
     }
 }
+getStep();
